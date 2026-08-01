@@ -1,0 +1,10 @@
+{
+  "markers": {
+    "proper_nouns": ["example-marker"],
+    "projects": ["example-project"],
+    "orgs": ["example-org"],
+    "jargon": ["example-jargon"],
+    "paths": ["/example/path/"]
+  },
+  "exclude_files": []
+}

@@ -1,0 +1,10 @@
+# Private publish-gate state — NEVER commit these.
+# Copy .audit-generic-markers.example.json -> .audit-generic-markers.json
+# and fill in your real markers. .publish-holdlist.md holds review state.
+.audit-generic-markers.json
+.publish-holdlist.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
